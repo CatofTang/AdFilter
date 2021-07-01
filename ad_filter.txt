@@ -1,18 +1,4 @@
-[Adblock Plus 1.1]
-! Checksum: A3aqwkLRqtyxpDg1g7zVXA
-! Version: 202107011243
-! Title: EasyPrivacy
-! Last modified: 01 Jul 2021 12:43 UTC
-! Expires: 1 days (update frequency)
-! Homepage: https://easylist.to/
-! Licence: https://easylist.to/pages/licence.html
-!
-! Please report any unblocked tracking or problems
-! in the forums (https://forums.lanik.us/)
-! or via e-mail (easylist@protonmail.com).
-!
-!-----------------General tracking systems-----------------!
-! *** easylist:easyprivacy/easyprivacy_general.txt ***
+! Update:2021/7/1 21:04
 csdn.net##.el-carousel__container
 csdn.net##.broadcast-active
 csdn.net##.csdn-side-toolbar
