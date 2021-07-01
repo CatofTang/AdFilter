@@ -1,0 +1,12 @@
+! Maximm filter
+###td_3733
+##.TOP_AD
+##.TOP_AD2
+##a[href*="htmm"]
+##th[class="r_two"]
+##tr[onmouseout="this.className='tr3 t_one'"]
+baidu.com###content_right
+baidu.com##.new-pmd
+baidu.com##.s-hotsearch-wrapper
+speedtest.cn##div[class="sus-window"]
+www.cust.edu.cn##.scrollbox
