@@ -1,12 +1,20 @@
 ! Maximm filter
+! Edit: 2021-07-01 18:23
+csdn.net##.el-carousel__container
+csdn.net##.broadcast-active
+csdn.net##.csdn-side-toolbar
+csdn.net##aside[class="blog_container_aside"]
+csdn.net##.recommend-tit-mod
+csdn.net##.recommend-box
 ###td_3733
 ##.TOP_AD
 ##.TOP_AD2
 ##a[href*="htmm"]
-##th[class="r_two"]
 ##tr[onmouseout="this.className='tr3 t_one'"]
+##th[class="r_two"]
+www.cust.edu.cn##.scrollbox
 baidu.com###content_right
-baidu.com##.new-pmd
 baidu.com##.s-hotsearch-wrapper
 speedtest.cn##div[class="sus-window"]
-www.cust.edu.cn##.scrollbox
+baidu.com###rs
+hao123.com##.hotsearchCon
